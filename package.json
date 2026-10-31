@@ -1,0 +1,13 @@
+{
+  "name": "telegram-firebase-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot command center connected with Firebase",
+  "main": "systemx.js",
+  "scripts": {
+    "start": "node systemx.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0",
+    "node-telegram-bot-api": "^0.65.0"
+  }
+}
